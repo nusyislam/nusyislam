@@ -37,7 +37,7 @@ Log workouts in plain English and get real plateau detection. Looks at the last 
 **[Speed-to-Lead](https://github.com/nusyislam/speed-to-lead)** · Python, FastAPI, Claude, Airtable, Discord
 Instant AI lead qualification and follow-up. Deterministic hard rules run before the LLM, sign-offs are generated in code instead of by the model, and an eval suite (including prompt-injection and out-of-ICP fixtures) took it from 5/7 to 7/7 passing.
 
-**Application Autofill** · Chrome extension, Claude API *(in progress)*
+**[Application Autofill](https://github.com/nusyislam/application-autofill)** · Chrome extension, Claude API *(in progress)*
 Autofills job applications on Workday, Greenhouse, Lever, Ashby, and YC. Bring your own API key, no account, and your data stays local.
 
 **Vision-Guidance Wearable** · Senior design, project lead *(in progress)*
