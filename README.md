@@ -46,7 +46,7 @@ Python and VBA automation for billing reports, replacing manual Excel work.
  
 Autofills job applications across eight portals (Workday, Greenhouse, Lever, Ashby, Gem, iCIMS, Rippling, and YC) with a shared core and per-portal adapters. Rules answer first, a Haiku classifier routes unknown questions back to rules, and Claude only answers above a confidence threshold. It never submits for you, legal and EEO questions never go to AI, and page text is treated as data to block prompt injection.
  
-Version 1.1 (in store review) adds resume prefill: upload your resume and LinkedIn PDF, the text is extracted locally in the browser, Claude structures it into schema-validated JSON, and any value that doesn't appear in the source text is dropped before you review the suggestions.
+Version 1.1 adds resume prefill: upload your resume and LinkedIn PDF, the text is extracted locally in the browser, Claude structures it into schema-validated JSON, and any value that doesn't appear in the source text is dropped before you review the suggestions.
  
 Backed by 600+ regression checks across 120+ fixtures built from real application failures, plus 260+ setup and UI tests. Shipped publicly with a privacy policy, narrowed permissions, and versioned releases. Bring your own API key, no account, and your data stays in your browser. Next up for 2.0: multiple resume versions and a local application tracker.
  
