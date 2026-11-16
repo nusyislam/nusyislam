@@ -65,7 +65,7 @@ Log workouts in plain English and get real plateau detection. Looks at the last 
  
 Instant AI lead qualification and follow-up. Deterministic hard rules run before the LLM, sign-offs are generated in code instead of by the model, and an eval suite (including prompt-injection and out-of-ICP fixtures) took it from 5/7 to 7/7 passing.
  
-### Wearable Obstacle-Detection Aid
+### [Wearable Obstacle-Detection Aid](https://github.com/nusyislam/point-cloud-9-vision-guide)
 *Senior design · Project lead · Python · DepthAI · MicroPython · In progress*
  
 Leading a 3-person team building a wearable for blind and low-vision users that signals obstacle distance and direction through vibration instead of audio, so users keep their ambient hearing. I built the perception pipeline on an OAK-D S2 stereo depth camera: 30 fps RGB-aligned depth and nearest-obstacle detection in left, center, and right zones, streamed to a Raspberry Pi Pico 2 W driving a haptic driver over I2C with a 500 ms motor failsafe. I modeled the camera's minimum depth range from stereo geometry, confirmed it by measurement, and switched to extended disparity to halve the close-range blind spot (30.5 to 15 cm). The safety-critical loop stays on classical depth thresholding, off any language-model path.
