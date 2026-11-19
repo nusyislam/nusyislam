@@ -11,8 +11,8 @@ The part of AI engineering I like most is where the model meets a real system: d
 ### AI Engineering Fellow (Founding Cohort), DNAi Systems
 *Nov 2026 to present*
  
-Healthcare AI startup building neurosymbolic systems.
- 
+Founding cohort working on Asha, a free medical AI for patients that grounds every answer in peer-reviewed evidence, shows its sources, and says "I don't know" when the evidence is thin.
+
 ### Growth Engineering Intern, Blaze (YC S24)
 *Oct to Nov 2026*
  
